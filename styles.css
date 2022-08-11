@@ -1,18 +1,26 @@
+body{
+    background-color: antiquewhite;
+    text-align: center;
+}
 h1{
-    color: #fff;
-    background-color: rgb(2, 41, 75);
+    color: rgb(12, 12, 12);
+    font-weight: 900;
+    font-size: 2.5rem;
 }
 p{
     text-align: center;
-    font-size: 1rem;
+    font-size: 1.5rem;
 }
 .parrafo1 {
-    background-color: rgba(22, 129, 124, 0.295);
+
 }
 .parrafo2{
     font-size: 2rem;
-    background-color: rgba(15, 8, 122, 0.281);
+    
 }
 .parrafo3{
-    background-color: rgba(170, 52, 15, 0.452);
+    
+}
+em strong{
+    color: red;
 }
