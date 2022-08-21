@@ -1,0 +1,65 @@
+/* css compartido */
+
+header{
+    background-color: #BBBBBBBB;
+    padding: 20px 0;
+}
+.contenedor-nav{
+    width: 940px;
+    position: relative;
+    margin: 0 auto;
+}
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+nav li{
+    display: inline;
+    margin: 0 0 0 22px;
+}
+nav a{
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+nav a:hover{
+    color: #ce910e;
+    font-size: 24px;
+}
+
+footer{
+    text-align: center;
+    background: url(images/bg.jpg);
+    padding: 40px;
+}
+#copyright{
+    font-size: 13px;
+    color: #fff;
+    margin: 20px;
+}
+
+main{
+    width: 940px;
+    margin: 0 auto;
+}
+form{
+    margin: 40px 0;
+}
+
+form label, form p{
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+.inputPatron{
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
+}
+.checkbox {
+    margin: 20px 0;
+}
