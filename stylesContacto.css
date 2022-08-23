@@ -1,5 +1,7 @@
 /* css compartido */
-
+body{
+    font-family: 'Amatic SC', cursive;
+}
 header{
     background-color: #BBBBBBBB;
     padding: 20px 0;
